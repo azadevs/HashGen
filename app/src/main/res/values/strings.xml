@@ -2,7 +2,7 @@
     <string name="app_name">HashGen</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="text_hash_generator">Hash \nGenerator</string>
+    <string name="text_hash_generator">Hash Generator</string>
     <string name="text_enter_your">Enter text your text…</string>
     <string name="text_generate">GENERATE</string>
     <string name="text_sha_256">SHA-256</string>
