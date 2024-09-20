@@ -15,5 +15,11 @@
 
     <style name="Theme.HashGen" parent="Base.Theme.HashGen" />
 
+    <style name="Theme.HashGen.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="windowSplashScreenBackground">@color/darker</item>
+        <item name="postSplashScreenTheme">@style/Theme.HashGen</item>
+    </style>
+
 
 </resources>
