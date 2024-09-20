@@ -1,4 +1,4 @@
-# HashGen
+# HashGen - Hash generator app
 
 ## Description
 A simple and efficient hash generator app that allows users to create cryptographic hash values from text input or files.
