@@ -11,6 +11,8 @@
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="android:colorBackground">@color/dark</item>
 
+        <item name="android:navigationBarColor">@color/darker</item>
+
     </style>
 
     <style name="Theme.HashGen" parent="Base.Theme.HashGen" />
