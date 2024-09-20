@@ -1,4 +1,8 @@
-# HashGen - Hash generator app
+# HashGen - Simple hash generator app
+
+
+https://github.com/user-attachments/assets/5d7d0c2d-3951-45b5-b78f-8c3f1d515928
+
 
 ## Description
 A simple and efficient hash generator app that allows users to create cryptographic hash values from text input or files.
